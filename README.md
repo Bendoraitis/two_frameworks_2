@@ -1,4 +1,4 @@
-# Pytorch and Tesnsorflow comaprison
+# Pytorch and Tesnsorflow comparison
 ## How to run:
 ##### Run in command line
 ```
@@ -9,6 +9,6 @@ pip install torch torchvision torchaudio
 ###run with tesnorflow
 python main.py
 
-###rusn with Pytorch
+###run with Pytorch
 python main2.py
 ```
